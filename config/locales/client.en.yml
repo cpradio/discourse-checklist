@@ -1,3 +1,4 @@
 en:
   js:
-    edit_reason: "checklist change"
+    checklist:
+      edit_reason: "checklist change"
