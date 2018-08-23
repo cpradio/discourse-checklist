@@ -43,7 +43,7 @@ export function checklistSyntax($elem, post)
 
         var props = {
           raw: new_raw,
-          edit_reason: I18n.t("checklist.edit_reason");,
+          edit_reason: I18n.t("checklist.edit_reason"),
         };
 
         if (TextLib.cookAsync) {
